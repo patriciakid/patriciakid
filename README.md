@@ -13,3 +13,7 @@ You can click the Preview link to take a look at your changes.
 id_rsa.pub
 id_ecdsa.pub
 id_ed25519.p
+LC: 3JPD-XQXX-4FCQ-AB4C-
+MUMV-8E3F-8474-3QQL-Q2JX-6FKB-L4PH-
+DR97-BM26-BDHD-YQ5D-3JXY-DR7B-SAZH-
+GLQA-JNYV-AQPE-82WS
